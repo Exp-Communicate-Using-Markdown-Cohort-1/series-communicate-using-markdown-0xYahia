@@ -1,14 +1,13 @@
 <h1>
   My name is Mohamed
 </h1>
+![Alt text]([URL_to_image](https://static01.nyt.com/images/2023/12/12/climate/12cli-cats/12cli-cats-videoSixteenByNine3000.jpg) "Optional title")
+
 <img src="./cat.jpg" />
 
-console.log('test')
+```javascript
+console.log('Hello, world!');
 
-<ul>
-  <li>cat 1</li>
-  <li>cat 2</li>
-  <li>cat 3</li>
-  <li>cat 4</li>
-  <li>cat 5</li>
-</ul>
+```markdown
+- [x] Task 1 completed
+- [ ] Task 2 not completed
